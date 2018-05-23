@@ -8,11 +8,12 @@ This is currently an active project and is in no way warranted to work for produ
 
 ## Usage
 
+Clone to local machine and `npm install [-g]` (-g if you want the command available in other directories).
+
 Super simple currently. Navigate to the directory of the `.css` file of which you'd like to invert the color scheme and run `cssinvert <filename>`.
 
 ## Planned Features
 
-- tests
-- invert multiple files with single command
-
-##
+- can invert files not in current directory
+- can invert multiple files with single command
+- is tested
